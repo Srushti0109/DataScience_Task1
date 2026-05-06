@@ -20,6 +20,14 @@ The dataset contains information about the passengers on the Titanic, including:
 - **Parch:** Number of parents/children aboard
 - **Fare:** Passenger fare
 - **Embarked:** Port of Embarkation (C, Q, S)
+- <img width="628" height="479" alt="image" src="https://github.com/user-attachments/assets/be421a96-3e92-4758-9fdf-c87a4d2650ba" />
+<img width="623" height="479" alt="image" src="https://github.com/user-attachments/assets/8efd8103-6c08-4ebc-b5f0-f916b34e18a4" />
+<img width="787" height="686" alt="image" src="https://github.com/user-attachments/assets/51e99d3f-fd89-46a6-9344-92024372b65e" />
+<img width="705" height="479" alt="image" src="https://github.com/user-attachments/assets/1207296b-7bfe-40cc-8621-21bcc0ea036c" />
+
+
+
+
 
 ## 🚀 Key Steps Performed
 1. **Data Cleaning:** 
