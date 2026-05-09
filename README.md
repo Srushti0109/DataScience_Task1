@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project involves performing **Exploratory Data Analysis (EDA)** and **Data Cleaning** on the famous Titanic dataset. The goal is to identify factors that influenced the survival probability of passengers.
 
+https://colab.research.google.com/github/Srushti0109/DataScience_Task1/blob/main/DataScience_Task1.ipynb
+
 ## 🛠️ Tools & Libraries
 - **Language:** Python
 - **Libraries:** 
